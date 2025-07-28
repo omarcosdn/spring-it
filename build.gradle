@@ -43,7 +43,7 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'org.springframework.boot:spring-boot-testcontainers'
     testImplementation 'org.springframework.amqp:spring-rabbit-test'
-    testImplementation 'com.h2database:h2'
+
     testImplementation 'org.junit.platform:junit-platform-suite:1.10.2'
     testImplementation ("org.junit.jupiter:junit-jupiter-api:${junit}")
     testImplementation ("org.junit.jupiter:junit-jupiter-engine:${junit}")
